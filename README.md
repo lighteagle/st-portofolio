@@ -4,6 +4,8 @@
 
 Welcome to the **Portofolio Project Using Streamlit** series! 🌟 Unleash your creativity and technical prowess as we dive into the art of building a stunning, multi-page web portfolio using Streamlit. This project is designed to help you showcase your work in a dynamic and interactive way, blending cutting-edge technology with seamless design.
 
+---
+
 In **Part 1: Multi-Page Web Applications**, we'll guide you through the essentials of structuring your project and creating a smooth navigation experience across multiple pages. Whether you're a data scientist, developer, or creative professional, this series will equip you with the tools and knowledge to make your portfolio shine.
 
 ---
