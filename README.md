@@ -16,6 +16,14 @@ Join us on this journey to elevate your portfolio game to new heights! 🚀
 
 ---
 
+☕ buy me a coffee
+
+(OVO / GoPay / Dana / LinkAja / QRIS)
+
+<https://saweria.co/sucaeducation>
+
+---
+
 ## Watch the Series
 
 [![Watch the series](https://img.youtube.com/vi/jYL6tdUnOxc/0.jpg)](https://www.youtube.com/playlist?list=PLGXGOHg9776WlK6VG3zfx7MoFucNXldw3)
