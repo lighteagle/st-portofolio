@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the **Portofolio Project Using Streamlit** series! 🌟 Unleash your creativity and technical prowess as we dive into the art of building a stunning, multi-page web portfolio using Streamlit. This project is designed to help you showcase your work in a dynamic and interactive way, blending cutting-edge technology with seamless design.
+Welcome to the **[Portofolio Project Using Streamlit](https://www.youtube.com/playlist?list=PLGXGOHg9776WlK6VG3zfx7MoFucNXldw3)** series! 🌟 Unleash your creativity and technical prowess as we dive into the art of building a stunning, multi-page web portfolio using Streamlit. This project is designed to help you showcase your work in a dynamic and interactive way, blending cutting-edge technology with seamless design.
 
 ---
 
