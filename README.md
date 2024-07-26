@@ -34,7 +34,7 @@ In **Part 1: Multi-Page Web Applications**, we'll guide you through the essentia
 
 ---
 
-In **Part 2: Learn Pandas with Streamlit**, we'll dive into the essentials of CRUD operations with Pandas like `pd.DataFrame`,`df.drop`,`.sum()` and explore some interactive features of Streamlit like `st.expander`,`st.code`
+In **Part 2: Create Tutorial Page Using Streamlit: "Learn Pandas"**, we'll dive into the essentials of CRUD operations with Pandas like `pd.DataFrame`,`df.drop`,`.sum()` and explore some interactive features of Streamlit like `st.expander`,`st.code`
 
 ---
 
