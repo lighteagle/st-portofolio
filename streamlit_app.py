@@ -22,9 +22,15 @@ learn_plotly_page = st.Page(
     icon = "📈"
 )
 
+dashboard_one_page = st.Page(
+    page = "views/dashboard_one.py",
+    title = "Dashboard",
+    icon = "🖥️"
+)
+
 # Navigation
 pg = st.navigation(
-    pages = [about_me_page, learn_pandas_page, learn_plotly_page],
+    pages = [about_me_page, learn_pandas_page, learn_plotly_page, dashboard_one_page],
 )
 
 st.logo("assets/ninja.png")
