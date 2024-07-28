@@ -22,9 +22,9 @@ learn_plotly_page = st.Page(
     icon = "📈"
 )
 
-dashboard_one_page = st.Page(
+dashboard_sales_page = st.Page(
     page = "views/dashboard_one.py",
-    title = "Dashboard",
+    title = "Dashboard Sales",
     icon = "🖥️"
 )
 
